@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ProductList-React/static/css/main.7b100522.css",
+    "main.js": "/ProductList-React/static/js/main.628a1640.js",
+    "index.html": "/ProductList-React/index.html",
+    "main.7b100522.css.map": "/ProductList-React/static/css/main.7b100522.css.map",
+    "main.628a1640.js.map": "/ProductList-React/static/js/main.628a1640.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b100522.css",
+    "static/js/main.628a1640.js"
+  ]
+}
